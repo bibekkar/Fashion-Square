@@ -6,3 +6,5 @@ mccabe==0.6.1
 six==1.11.0
 virtualenv==16.0.0
 wrapt==1.10.11
+django==3.1.1
+bcrypt==3.2.0
